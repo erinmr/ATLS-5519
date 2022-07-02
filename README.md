@@ -17,10 +17,11 @@ This repo has all my assignments for the University of Colorado, Boulder course 
 * [Day 9](https://github.com/erinmr/ATLS-5519/blob/main/Day_9_ER_Submitted.ipynb) - Photoshoot (needs more work), Ribbons and COW Operations 
 
 **Week 4 - 6/21-6/23/2022 Focus was on Olympiad Problems and Final Project work**
-* Day 10
+* [Day 10](https://github.com/erinmr/ATLS-5519/blob/main/Day_10_ER_Submitted.ipynb) - Interesting recurssive problems. Thought we might be able to reuse code, but we couldn't. 
 * Day 11 & 12 - asynchronous 
 
 **Week 5 - 6/28-6/30/2022** 
-* Day 13
-* Day 14
-* Day 15 - Final Project 
+* [Day 13](https://github.com/erinmr/ATLS-5519/blob/main/Day_13_ER_Submitted.ipynb) - Card game, cleaning a room, next unique number
+* [Day 14](https://github.com/erinmr/ATLS-5519/blob/main/Day_14_ER_submitted.ipynb) - Sleepy cows, Reveg both silver and bronze
+* [Day 15](https://github.com/erinmr/ATLS-5519/blob/main/Day_15_ER_submitted.ipynb) - Final Project Presentation & a few more problems 
+* [Final Project](https://github.com/erinmr/ATLS-5519/blob/main/Final_Project_ER_Submitted.ipynb) - Pig Latin, Rail Cipher encrypt, decrypt and hack, and Bessie Diamond mining both bronze and silver 
